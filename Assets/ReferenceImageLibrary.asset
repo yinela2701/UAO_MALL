@@ -1,0 +1,169 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5202962108644302100
+  m_GuidHigh: 6403200133741801398
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5027060434371743323
+      m_GuidHigh: 10779895725545023156
+    m_SerializedTextureGuid:
+      m_GuidLow: 2969054221490784902
+      m_GuidHigh: 10724776201168146331
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Logo-Arkadia
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5174388405562790095
+      m_GuidHigh: 17018566210488758156
+    m_SerializedTextureGuid:
+      m_GuidLow: 6544960845017641059
+      m_GuidHigh: 12099870755028072729
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Logo-BlushBar
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5452299017798812019
+      m_GuidHigh: 15109971810306333327
+    m_SerializedTextureGuid:
+      m_GuidLow: 4860699935111012639
+      m_GuidHigh: 3038725710249156280
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Logo-Cinemark
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4793043267082352619
+      m_GuidHigh: 14288468002010765987
+    m_SerializedTextureGuid:
+      m_GuidLow: 3635788071570405729
+      m_GuidHigh: 10361312286153290827
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Logo-Epk
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5508628252572737854
+      m_GuidHigh: 767158348429014952
+    m_SerializedTextureGuid:
+      m_GuidLow: 5450634986768152109
+      m_GuidHigh: 12960328536361066907
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Logo-Homecenter
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5692692129805581476
+      m_GuidHigh: 9969086775318676662
+    m_SerializedTextureGuid:
+      m_GuidLow: 937962728929828324
+      m_GuidHigh: 14616935595994086635
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Logo-Ikea
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5091121257027554609
+      m_GuidHigh: 12939276630463440802
+    m_SerializedTextureGuid:
+      m_GuidLow: 11309687615321562673
+      m_GuidHigh: 16872766309677967864
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Logo-Jumbo
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4619367127669149103
+      m_GuidHigh: 3770704294553084292
+    m_SerializedTextureGuid:
+      m_GuidLow: 7752014439391759368
+      m_GuidHigh: 8651728281865377961
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Logo-Lego
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5600012655707445018
+      m_GuidHigh: 5603714548591489466
+    m_SerializedTextureGuid:
+      m_GuidLow: 12931069295019534317
+      m_GuidHigh: 1823369514591318666
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Logo-Nike
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5474633067690902160
+      m_GuidHigh: 7462272497280504241
+    m_SerializedTextureGuid:
+      m_GuidLow: 4725404890130106981
+      m_GuidHigh: 12265636700736495723
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Logo-Plateria
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5109171672147403268
+      m_GuidHigh: 10359454962462294422
+    m_SerializedTextureGuid:
+      m_GuidLow: 13872218895059526797
+      m_GuidHigh: 11044541928198791579
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Logo-Sevillana
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5231219906326595982
+      m_GuidHigh: 11839101664193663620
+    m_SerializedTextureGuid:
+      m_GuidLow: 244436411841084167
+      m_GuidHigh: 17968137027819813032
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Logo-Starbucks
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5116763088250568204
+      m_GuidHigh: 16014254370244771463
+    m_SerializedTextureGuid:
+      m_GuidLow: 15588147715113005027
+      m_GuidHigh: 1452009914614729577
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Logo-Tennis
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4624103107015661925
+      m_GuidHigh: 10653553484464854707
+    m_SerializedTextureGuid:
+      m_GuidLow: 15903442757507197400
+      m_GuidHigh: 12102592266451585560
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Logo-Tugo
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5130196414457131867
+      m_GuidHigh: 17174651804930600122
+    m_SerializedTextureGuid:
+      m_GuidLow: 7905133594291291041
+      m_GuidHigh: 1610264410926230778
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Logo-Velez
+    m_Texture: {fileID: 0}
